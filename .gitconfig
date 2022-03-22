@@ -1,0 +1,6 @@
+[user]
+	name = spectrum-ianWSL
+	config = ian@spectrumware.net
+	email = ian@spectrumware.net
+[alias]
+	logline = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
